@@ -1,7 +1,7 @@
 exports.dbConfig = {
     server: '172.24.1.6',
     database: 'NODEDB',
-    user: 'sa',
+    user: 'sas',
     password: 'p@$$w0rd',
     port: 1433
     };
